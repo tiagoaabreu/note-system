@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://tiagoaabreu.github.io/notes/000_Inbox/</loc>
+         <loc>https://tiagoaabreu.github.io/note-system/000_Inbox/</loc>
          <lastmod>2025-10-24</lastmod>
     </url>
     <url>
-         <loc>https://tiagoaabreu.github.io/notes/00_templates/</loc>
+         <loc>https://tiagoaabreu.github.io/note-system/00_templates/</loc>
          <lastmod>2025-10-24</lastmod>
     </url>
     <url>
-         <loc>https://tiagoaabreu.github.io/notes/00_templates/project/</loc>
+         <loc>https://tiagoaabreu.github.io/note-system/00_templates/project/</loc>
          <lastmod>2025-10-24</lastmod>
     </url>
     <url>
-         <loc>https://tiagoaabreu.github.io/notes/00_templates/study/</loc>
+         <loc>https://tiagoaabreu.github.io/note-system/00_templates/study/</loc>
          <lastmod>2025-10-24</lastmod>
     </url>
     <url>
-         <loc>https://tiagoaabreu.github.io/notes/00_templates/tarefa/</loc>
+         <loc>https://tiagoaabreu.github.io/note-system/00_templates/tarefa/</loc>
          <lastmod>2025-10-24</lastmod>
     </url>
     <url>
-         <loc>https://tiagoaabreu.github.io/notes/01_Tasks/</loc>
+         <loc>https://tiagoaabreu.github.io/note-system/01_Tasks/</loc>
          <lastmod>2025-10-24</lastmod>
     </url>
     <url>
-         <loc>https://tiagoaabreu.github.io/notes/02_Projects/</loc>
+         <loc>https://tiagoaabreu.github.io/note-system/02_Projects/</loc>
          <lastmod>2025-10-24</lastmod>
     </url>
     <url>
-         <loc>https://tiagoaabreu.github.io/notes/03_Studies/</loc>
+         <loc>https://tiagoaabreu.github.io/note-system/03_Studies/</loc>
          <lastmod>2025-10-24</lastmod>
     </url>
     <url>
-         <loc>https://tiagoaabreu.github.io/notes/99_Archive/</loc>
+         <loc>https://tiagoaabreu.github.io/note-system/99_Archive/</loc>
          <lastmod>2025-10-24</lastmod>
     </url>
 </urlset>
