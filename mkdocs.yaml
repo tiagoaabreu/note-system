@@ -1,0 +1,50 @@
+site_name: Tiago Notes
+site_description: Knowledge base e notas técnicas
+site_url: https://tiagoaabreu.github.io/notes
+repo_url: https://github.com/tiagoaabreu/notes
+repo_name: notes
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js
+extra:
+  generator: false
+nav:
+  - Home: index.md
+  - Inbox: 000_Inbox/index.md
+  - Tarefas: 01_tasks/index.md
+  - Projetos: 02_Projects/index.md
+  - Estudos: 03_Studies/index.md
+  - Arquivo: 99_Archive/index.md
