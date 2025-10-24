@@ -1,8 +1,8 @@
 site_name: Tiago Notes
 site_description: Knowledge base e notas técnicas
-site_url: https://tiagoaabreu.github.io/notes
-repo_url: https://github.com/tiagoaabreu/notes
-repo_name: notes
+site_url: https://tiagoaabreu.github.io/note-system
+repo_url: https://github.com/tiagoaabreu/note-system
+repo_name: note-system
 theme:
   name: material
   language: pt-BR
